@@ -9,3 +9,6 @@ def check_age(age):
    return False
   else:
    return True
+
+def count_char(some_string):
+  return len("some_string")

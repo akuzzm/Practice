@@ -12,3 +12,6 @@ def check_age(age):
 
 def count_char(some_string):
   return len("some_string")
+
+def count_all(smt):
+  return len(smt, "smt")
